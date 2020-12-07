@@ -1,0 +1,10 @@
+C:\Users\simas\Desktop\ip lygiagretaus\c#\PlagiarismApp\PlagiarismApp\bin\Debug\PlagiarismApp.exe.config
+C:\Users\simas\Desktop\ip lygiagretaus\c#\PlagiarismApp\PlagiarismApp\bin\Debug\PlagiarismApp.exe
+C:\Users\simas\Desktop\ip lygiagretaus\c#\PlagiarismApp\PlagiarismApp\bin\Debug\PlagiarismApp.pdb
+C:\Users\simas\Desktop\ip lygiagretaus\c#\PlagiarismApp\PlagiarismApp\bin\Debug\Xceed.Document.NET.dll
+C:\Users\simas\Desktop\ip lygiagretaus\c#\PlagiarismApp\PlagiarismApp\bin\Debug\Xceed.Words.NET.dll
+C:\Users\simas\Desktop\ip lygiagretaus\c#\PlagiarismApp\PlagiarismApp\obj\Debug\PlagiarismApp.csprojAssemblyReference.cache
+C:\Users\simas\Desktop\ip lygiagretaus\c#\PlagiarismApp\PlagiarismApp\obj\Debug\PlagiarismApp.csproj.CoreCompileInputs.cache
+C:\Users\simas\Desktop\ip lygiagretaus\c#\PlagiarismApp\PlagiarismApp\obj\Debug\PlagiarismApp.csproj.CopyComplete
+C:\Users\simas\Desktop\ip lygiagretaus\c#\PlagiarismApp\PlagiarismApp\obj\Debug\PlagiarismApp.exe
+C:\Users\simas\Desktop\ip lygiagretaus\c#\PlagiarismApp\PlagiarismApp\obj\Debug\PlagiarismApp.pdb
