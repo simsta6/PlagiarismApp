@@ -39,9 +39,13 @@ namespace testDocX
 
                 Console.WriteLine("Paprastas metodas užtruko " + NonParallel_CompareFiles(di, chunks, exampleFiles[i]) + " miliseconds.");
                 Console.WriteLine("Išlygiagretintas metodas užtruko " + Parallel_CompareFiles(di, chunks, exampleFiles[i]) + " miliseconds.");
+                //Console.Write(NonParallel_CompareFiles(di, chunks, exampleFiles[i]) + " ");
+                //Console.Write(Parallel_CompareFiles(di, chunks, exampleFiles[i]));
 
                 Console.WriteLine();
             }
+
+            Console.WriteLine("done");
 
             Console.ReadKey();
         }
@@ -70,7 +74,7 @@ namespace testDocX
 
             sw.Start();
 
-            di.GetFiles().AsParallel().ForAll(x => CompareFiles(chunks, orgFilename, x.FullName));
+            di.GetFiles().AsParallel().WithDegreeOfParallelism(8).ForAll(x => CompareFiles(chunks, orgFilename, x.FullName));
 
             sw.Stop();
 
